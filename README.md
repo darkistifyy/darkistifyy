@@ -6,6 +6,5 @@ class AboutMe:
     def __init__(self) -> None:
         self.name       = "oxy"
         self.discord    = "oxy.dev"
-        self.projects   = {Steal()}
-        self.links      = [https://github.com/oxy-devv/Steal] 
+        self.projects   = {fane()}
 ```
