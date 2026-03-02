@@ -4,7 +4,7 @@
 ```py
 class AboutMe:
     def __init__(self) -> None:
-        self.name       = "oxy"
-        self.discord    = "oxy.dev"
+        self.name       = "rex"
+        self.discord    = "darkistify"
         self.projects   = {fane()}
 ```
