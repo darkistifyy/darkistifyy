@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=25&duration=3650&pause=3000&color=F7F7F7&random=false&width=435&lines=oxy%2C+a+cool+cracker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=25&duration=3650&pause=3000&color=F7F7F7&random=false&width=435&lines=oxy%2C+the+coolest+dinosaur)](https://git.io/typing-svg)
 
 ```py
 class AboutMe:
