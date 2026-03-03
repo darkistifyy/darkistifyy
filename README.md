@@ -5,6 +5,6 @@
 class AboutMe:
     def __init__(self) -> None:
         self.name       = "rex"
-        self.discord    = "darkistify"
+        self.socials    = { instagram : "darkistifyy", discord : "darkistify" }
         self.projects   = [fane(), steal(), rpage.web()]
 ```
